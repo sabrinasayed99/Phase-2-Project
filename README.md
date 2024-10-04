@@ -43,9 +43,8 @@ For the future, I recommend to look further into franchise data to see what vari
 
 ## Directory
 [Presentation](https://www.canva.com/design/DAGSdLgdpUM/n7Qj7fD4kZpuT_7FptVAuQ/edit?utm_content=DAGSdLgdpUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 [IM.DB Dataset](https://www.imdb.com/)
-[The Numbers Dataset](https://www.the-numbers.com/)
+[TMDB Dataset](https://www.themoviedb.org/)
 
 ## Repo Files
 
