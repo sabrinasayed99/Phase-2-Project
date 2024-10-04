@@ -55,7 +55,7 @@ Cleaned Data folder contains the cleaned dataframe that was used for analysis ca
 Contains the raw data files  and alternative dataframes built from the original set.
 ### EDA
 Includes exploration of data, alternative databases, statistical analyses, regression models, and graphical representations of insights. The final version is called 'Final EDA.ipynb'
-## Images
+### Images
 Stores images of all graphs that were created.
-## Box Office Presentation.pdf
+### Box Office Presentation.pdf
 A pdf version of the presentation slides.
