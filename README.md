@@ -6,13 +6,13 @@
 
 ## Overview:
 
-This project utilizes two separate box office datasets, IM.DB annd The Numbers database to assess the success of films at the box office. To gauge success, we focus on ROI and critics' ratings by genre. We will draw actionable insights from the data assist the Praveen Corporation's new movie studio in decigin what types of films to produce.
+This project utilizes two separate box office datasets, IM.DB annd The TM.DB database to assess the success of films at the box office. To gauge success, we focus on ROI and critics' ratings by genre. We will draw actionable insights from the data assist the Praveen Corporation's new movie studio in decigin what types of films to produce.
 
 ## Business Problem:
 The Praveen Corporation is opening a movie studio and wants insight into what movies do the best at the box office. To measure the success, this project focuses on average ratings and ROI's of films by genre.
 
 ## Data:
- The IM.DB database presents categorical data on movie titles, release dates, directors, actors, and genres. The Numbers databases offers numerical data on domestic and worldwide gross revenue, production budgets, average ratings, number of votes, and more. This data spans films from 1960 to 2020 and covers both domestic and international films.
+ The IM.DB database presents categorical data on movie titles, release dates, directors, actors, and genres. The TM.DB databases offers numerical data on domestic and worldwide gross revenue, production budgets, average ratings, number of votes, and more. This data spans films from 1960 to 2020 and covers both domestic and international films.
 
 ## Methods:
 ROI was calculated based on the given gross revenue and production budget. The data was cleaned, filtered, and merged with pandas and SQL. Using statistical analyses and a linear regression model, average ratings and ROI were prioritized to measure success. Other variables were also analyzed with a multivariate regression to assess further relationships with ROI and rating.
