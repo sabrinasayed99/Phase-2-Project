@@ -1,5 +1,6 @@
 ## Success at the Box Office
-[!Image](<Screenshot 2024-10-04 at 1.39.25 AM.png>)
+
+![Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tsVGulrdsTO9IVjzjEmIhQ.jpeg)
 
 #### Author : [Sabrina Sayed](https://github.com/sabrinasayed99)
 
@@ -19,19 +20,19 @@ ROI was calculated based on the given gross revenue and production budget. The d
  ## Results:
  The average ROI was found to be highest across the Mystery, Horror, Thriller, Documentary, and Biography genres. 
  
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/sabrinasayed/Documents/GitHub/Phase-2-Project/images/avg_ROI_by_genre.jpg?version%3D1728020105709)
+![Image](https://file%2B.vscode-resource.vscode-cdn.net/Users/sabrinasayed/Documents/GitHub/Phase-2-Project/images/avg_ROI_by_genre.jpg?version%3D1728020105709)
  
  The linear regression model proved to be very unreliable and revealed a weak relationship between ROI and average ratings. 
 
- ![alt text](images/rating_ROI_model.jpg)
+ ![Image](images/rating_ROI_model.jpg)
  
  Production budgets for the highest performing genres are skewed to the lower end of the range, proving that high budgets do not guarantee high returns. 
 
- ![alt text](distribution_budget.png)
+ ![Image](distribution_budget.png)
  
  The highest grossing films are mostly franchises, and thus investing in franchises is a strong predictor for success.
 
- ![alt text](highest_grossing_films.jpg)
+ ![Image](highest_grossing_films.jpg)
 
 ## Conclusions
 My recommendations to achieve box office success are:
