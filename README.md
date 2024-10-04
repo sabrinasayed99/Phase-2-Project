@@ -19,8 +19,7 @@ ROI was calculated based on the given gross revenue and production budget. The d
 
  ## Results:
  The average ROI was found to be highest across the Mystery, Horror, Thriller, Documentary, and Biography genres. 
- 
-![Image](https://file%2B.vscode-resource.vscode-cdn.net/Users/sabrinasayed/Documents/GitHub/Phase-2-Project/images/avg_ROI_by_genre.jpg?version%3D1728020105709)
+ ![avg_ROI_by_genre](https://github.com/user-attachments/assets/0948e218-5f5d-4571-965f-3e9805627a20)
  
  The linear regression model proved to be very unreliable and revealed a weak relationship between ROI and average ratings. 
 
