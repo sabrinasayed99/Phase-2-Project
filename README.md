@@ -28,11 +28,11 @@ ROI was calculated based on the given gross revenue and production budget. The d
  
  Production budgets for the highest performing genres are skewed to the lower end of the range, proving that high budgets do not guarantee high returns. 
 
- ![Image](distribution_budget.png)
+ ![Image](images/distribution_budget.png)
  
  The highest grossing films are mostly franchises, and thus investing in franchises is a strong predictor for success.
 
- ![Image](highest_grossing_films.jpg)
+ ![Image](images/highest_grossing_films.jpg)
 
 ## Conclusions
 My recommendations to achieve box office success are:
