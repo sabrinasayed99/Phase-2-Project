@@ -1,5 +1,6 @@
 ## Success at the Box Office
-![image](<Screenshot 2024-10-04 at 1.39.25 AM.png>)
+<img src=(<Screenshot 2024-10-04 at 1.39.25 AM.png>)/>
+
 #### Author : [Sabrina Sayed](https://github.com/sabrinasayed99)
 
 ## Overview:
